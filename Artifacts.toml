@@ -1,0 +1,288 @@
+[[poly2tri]]
+arch = "aarch64"
+git-tree-sha1 = "c766793f8c87f6454662877bf1735165cc7ed289"
+os = "macos"
+
+    [[poly2tri.download]]
+    sha256 = "2f8dc74893e26492334df4764a7ab26da2a466844746b83ca329c47eeee9d627"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[poly2tri]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9c0ababb04e63766eb6406a6540ce773b44ba0cb"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "ebb02703179a1cb10810466fd8f9688f565bec59f7b9020a88adf74a625f9fef"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[poly2tri]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "557654421f9227bb9d555ecf1bdd40276908c82a"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "2e3455900812635c98e35ac27fe32b16684572593092b807b122de010592e9eb"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[poly2tri]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8ab559cd22cc0dcf5a039dda643a6486109b809"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "eb31b6d50f6299d0047442da2dc95168d7b1db8a1e00887299e9db1ac879aed7"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[poly2tri]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb8fb79107a162879b72a767b0a60f068d8a28a0"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "13e8b2c0e75b1f8dc0617a1e1bd6e2e9b68f60afd68bc581b7eb098663594ba7"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[poly2tri]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be29668a050e2548ad8a8c8aebcb4af933c70fbb"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "fec7a0c949d927150caa6ac3b6afe7bb3cb5988a301645f7fc63c347185b368c"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[poly2tri]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01d82898ceeba3c087a2d9474a2c408c747f9e23"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "820352b8f638f7a9801cad5ad9a2e154ce57d4a5ac229113939243fff1744ab8"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[poly2tri]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a5ff3b0895008bed8d143acabf525c63f69891e8"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "7eb507b46323fb1aa43bec0da1243a76021b0180f819d393d438443e42e6aca6"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[poly2tri]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f50707b15a6bdbe4ab11b09c320c9fff6a2197d3"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "2e58fb6d5e693ff8ad01120a4968057f94bbf57e264702398c0372b72c341be3"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[poly2tri]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43822e526a4d01d3762a09d1fdedadbeb762100c"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "16406e119e44df75a5ab7e1e8cc162dff36425794943b44956247115a231bc57"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[poly2tri]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d40a85620d470a564566d46d8f37bad823fbc355"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "c6cf89bcd408076c76845ab007f4865f7ed272932482fc303d91ce9d1eb0957c"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[poly2tri]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b131d87834e09fa171eda8db972fc9e0058d4cf0"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "74b7bea212a702fcd6633106075bfea31e8a40b3a68b0ba71cb5ee5d753c1db6"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[poly2tri]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c35d2f8b6d8a0977d6200f9c0cc5f89cb48d9a9"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "05f2bfdc75c3309a54004b60d3f96350d8857161131b11bc0482d6cfa77af395"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[poly2tri]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3500873be68999596e3cb29fda0942388850dc7"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "c5ce9e40a3a98af2469520e8eae4b022f8179835b06304525eb6b1be0f55937e"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[poly2tri]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84c69a91d39bab60a45773bc1097ad82d5550955"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "1e6418606b4bc2f8520226047d1c815f4a98cb871803bf32cb0852a137494aa3"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[poly2tri]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "88e548f7a1c7077ab5e50eb846d49d4caa440523"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "dfdb4b4378cbe0beb21e4c8280acbc9e3ecc8c80b4edb5dd9567eb71622ce865"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[poly2tri]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8274efa80701efb15ffb3d2e51d847ae083e3c82"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "02f2472b18ac932316f575848907de08b5fcaf1e834baac12a79c2fec50fd90d"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[poly2tri]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69d2c6752c3cb3c900bc4ac7886d8929aaed1415"
+os = "windows"
+
+    [[poly2tri.download]]
+    sha256 = "c515d9adc40b4175add31c86fbe073bc0d693d481d9d32ad5d462da3ae3cff50"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[poly2tri]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27eb2b32eb1369211d93420b8ce38a1f52132889"
+os = "windows"
+
+    [[poly2tri.download]]
+    sha256 = "81fb3c17728a29e55514a136f86e19692ca64f3c6e01cd86a6a0fe5b03b3404c"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[poly2tri]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6c9711388036fd4f2ba425e2ace4d0de49b2981"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "2fd29f71554fe624f16552213d4109716d19c1f68527d520f086fe3cc95a6619"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[poly2tri]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "395c61f16de1d1e2c5f257b535c2ad63b0ab5c4c"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "8e91986521def8e7656c7539b8e653418ab396b2df0a188642f330f4d969d9e0"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+git-tree-sha1 = "8258bfacd93b13a8461c3b813e1f3aafbf9b6e61"
+os = "macos"
+
+    [[poly2tri.download]]
+    sha256 = "1882b1a6ffc50d8d28c5f681c730647ff5993716a22393c1ded560c07cf36e31"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ded75986697139b931925d3dca639c800623dde1"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "3c5ad63117df480d0c7c7861bd50e1f3e5cd5628f2f4388b9192094a840f1451"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b506ed58cd1e96d64a76b5d6e44921b5631d7f79"
+libc = "glibc"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "e303fae9563a84a6b832e6b3eca163d47db0d71e2feb2c3dc5c7b3042b88d258"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9098abe90bff44597b46d5e2d4c20c72f317a3f"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "5c8f8da5cceff5b3f73e8db2635d9ccd6b68a462b87c91719dd32d0055a8f942"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f275a76cdbaa5e2cef7a92a0fccb050015a55f2e"
+libc = "musl"
+os = "linux"
+
+    [[poly2tri.download]]
+    sha256 = "afe4c4032bf0451f3243861a41025cccb34dc795b3760bcabbf2ee6d7a6312ef"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+git-tree-sha1 = "bba6470ba6d393f4c6031ec291ad0f08287f2f56"
+os = "freebsd"
+
+    [[poly2tri.download]]
+    sha256 = "7a26c6091b74705b965cc6c1352fa6bcd3bd56596d199f66da082dbd001eb2f2"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1413088e0ac074be336615725f29c369ca623b53"
+os = "windows"
+
+    [[poly2tri.download]]
+    sha256 = "c22ae16c8be792b55962adec9927ef14ebd48031c8e2d06dc9c95dbb1b6f21fb"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[poly2tri]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "787e58ebc2dd37dce33adeffc7b1b28d17295854"
+os = "windows"
+
+    [[poly2tri.download]]
+    sha256 = "3c888d23a609048f697789a94e7ddd76e1c4645974a057c93f2e518ead12e79c"
+    url = "https://github.com/JuliaBinaryWrappers/poly2tri_jll.jl/releases/download/poly2tri-v0.1.0+0/poly2tri.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
